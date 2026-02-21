@@ -1,0 +1,186 @@
+{
+  "config": {
+    "configFile": "/Users/Shubham/Playwright-my/playwright.config.js",
+    "rootDir": "/Users/Shubham/Playwright-my/tests",
+    "forbidOnly": false,
+    "fullyParallel": true,
+    "globalSetup": "/Users/Shubham/Playwright-my/utils/globalSetup.js",
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "json",
+        {
+          "outputFile": "results/report-1754635621894.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "/Users/Shubham/Playwright-my/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "setup",
+        "name": "setup",
+        "testDir": "/Users/Shubham/Playwright-my/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "/.*\\.setup\\.spec\\.js$/"
+        ],
+        "timeout": 30000
+      },
+      {
+        "outputDir": "/Users/Shubham/Playwright-my/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "chromium",
+        "name": "chromium",
+        "testDir": "/Users/Shubham/Playwright-my/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      },
+      {
+        "outputDir": "/Users/Shubham/Playwright-my/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "firefox",
+        "name": "firefox",
+        "testDir": "/Users/Shubham/Playwright-my/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      },
+      {
+        "outputDir": "/Users/Shubham/Playwright-my/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "webkit",
+        "name": "webkit",
+        "testDir": "/Users/Shubham/Playwright-my/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      }
+    ],
+    "shard": null,
+    "updateSnapshots": "changed",
+    "updateSourceMethod": "3way",
+    "version": "1.54.2",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "Bopis/tests/testwithdetailpage.spec.js",
+      "file": "Bopis/tests/testwithdetailpage.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "BOPIS: Ready for Pickup -> Packed -> Details -> Handover (with modal)",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "failed",
+                  "duration": 9376,
+                  "error": {
+                    "message": "Error: \u001b[31mTimed out 5000ms waiting for \u001b[39m\u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m\n\nLocator: getByTestId('order-card').first()\nExpected: visible\nReceived: <element(s) not found>\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByTestId('order-card').first()\u001b[22m\n",
+                    "stack": "Error: \u001b[31mTimed out 5000ms waiting for \u001b[39m\u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m\n\nLocator: getByTestId('order-card').first()\nExpected: visible\nReceived: <element(s) not found>\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByTestId('order-card').first()\u001b[22m\n\n    at BopisOrdersPage.goToOpenTab (/Users/Shubham/Playwright-my/tests/Bopis/pages/bopis-orders-page.js:15:29)\n    at /Users/Shubham/Playwright-my/tests/Bopis/tests/testwithdetailpage.spec.js:12:3",
+                    "location": {
+                      "file": "/Users/Shubham/Playwright-my/tests/Bopis/pages/bopis-orders-page.js",
+                      "column": 29,
+                      "line": 15
+                    },
+                    "snippet": "\u001b[90m   at \u001b[39mBopis/pages/bopis-orders-page.js:15\n\n\u001b[0m \u001b[90m 13 |\u001b[39m     \u001b[90m// Wait for order cards to appear\u001b[39m\n \u001b[90m 14 |\u001b[39m     \u001b[36mconst\u001b[39m firstCard \u001b[33m=\u001b[39m \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39mpage\u001b[33m.\u001b[39mgetByTestId(\u001b[32m'order-card'\u001b[39m)\u001b[33m.\u001b[39mfirst()\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 15 |\u001b[39m     \u001b[36mawait\u001b[39m expect(firstCard)\u001b[33m.\u001b[39mtoBeVisible()\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 16 |\u001b[39m   }\n \u001b[90m 17 |\u001b[39m\n \u001b[90m 18 |\u001b[39m   \u001b[36masync\u001b[39m goToPackedTab() {\u001b[0m"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "/Users/Shubham/Playwright-my/tests/Bopis/pages/bopis-orders-page.js",
+                        "column": 29,
+                        "line": 15
+                      },
+                      "message": "Error: \u001b[31mTimed out 5000ms waiting for \u001b[39m\u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m()\u001b[22m\n\nLocator: getByTestId('order-card').first()\nExpected: visible\nReceived: <element(s) not found>\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByTestId('order-card').first()\u001b[22m\n\n\n\u001b[90m   at \u001b[39mBopis/pages/bopis-orders-page.js:15\n\n\u001b[0m \u001b[90m 13 |\u001b[39m     \u001b[90m// Wait for order cards to appear\u001b[39m\n \u001b[90m 14 |\u001b[39m     \u001b[36mconst\u001b[39m firstCard \u001b[33m=\u001b[39m \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39mpage\u001b[33m.\u001b[39mgetByTestId(\u001b[32m'order-card'\u001b[39m)\u001b[33m.\u001b[39mfirst()\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 15 |\u001b[39m     \u001b[36mawait\u001b[39m expect(firstCard)\u001b[33m.\u001b[39mtoBeVisible()\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 16 |\u001b[39m   }\n \u001b[90m 17 |\u001b[39m\n \u001b[90m 18 |\u001b[39m   \u001b[36masync\u001b[39m goToPackedTab() {\u001b[0m\n\u001b[2m    at BopisOrdersPage.goToOpenTab (/Users/Shubham/Playwright-my/tests/Bopis/pages/bopis-orders-page.js:15:29)\u001b[22m\n\u001b[2m    at /Users/Shubham/Playwright-my/tests/Bopis/tests/testwithdetailpage.spec.js:12:3\u001b[22m"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2025-08-08T06:47:06.288Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "/Users/Shubham/Playwright-my/test-results/Bopis-tests-testwithdetail-41d7e-ails---Handover-with-modal--chromium/error-context.md"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "/Users/Shubham/Playwright-my/tests/Bopis/pages/bopis-orders-page.js",
+                    "column": 29,
+                    "line": 15
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "48f2586fba72393b505a-925a71612f64a108735f",
+          "file": "Bopis/tests/testwithdetailpage.spec.js",
+          "line": 4,
+          "column": 1
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2025-08-08T06:47:05.680Z",
+    "duration": 10978.568,
+    "expected": 0,
+    "skipped": 0,
+    "unexpected": 1,
+    "flaky": 0
+  }
+}

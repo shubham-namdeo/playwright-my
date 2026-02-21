@@ -1,0 +1,239 @@
+[     645ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.wsj.com/:0
+[    5545ms] [WARNING] <link rel=preload> must have a valid `as` value @ https://www.wsj.com/:415
+[    6447ms] [WARNING] Found declarative shadowrootmode attribute on a template, but declarative Shadow DOM is not being parsed. Use setHTMLUnsafe() or parseHTMLUnsafe() instead. @ https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:0
+[    6547ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6548ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6548ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6548ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6549ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6549ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6549ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6549ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6550ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6550ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6550ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6550ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6550ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6551ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6551ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6551ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at lg (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:46744)
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121339)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94219)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6551ms] Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at i (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:121008)
+    at oF (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99306)
+    at https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99173
+    at oO (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:99180)
+    at ox (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:95932)
+    at oS (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:94487)
+    at x (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:137808)
+    at MessagePort.T (https://www.wsj.com/_next/static/chunks/framework-dffe77a3f8b4d60a.js:1:138338)
+[    6724ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.wsj.com/buyside/content-images/121a7a7b-7e15-4909-888d-f5a3242aace3?width=288&height=192&pixel_ratio=2:0
+[    7159ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.wsj.com/buyside/content-images/90f58c52-9ff2-40bd-9276-735749a77b22?width=608&height=405&pixel_ratio=2:0
+[    9019ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ https://www.wsj.com/:201
+[    9155ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ https://www.wsj.com/:201
+[    9161ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://follow-api.wsj.com/subscription/filter/author?product=wsj&value=6135:0
+[    9162ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://follow-api.wsj.com/subscription/filter/author?product=wsj&value=9934:0
+[    9162ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://follow-api.wsj.com/subscription/filter/author?product=wsj&value=6268:0
+[    9173ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://follow-api.wsj.com/subscription/filter/author?product=wsj&value=9930:0
+[    9294ms] [ERROR] Failed to load resource: the server responded with a status of 451 () @ https://api.rlcdn.com/api/identity/envelope?pid=13516:0
+[    9511ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://follow-api.wsj.com/subscription/filter/author?product=wsj&value=6491:0
+[   11618ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://cs.nex8.net/cs/openx:0
+[   12513ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12526ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   13220ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=59&partnerUserId=CAESEA6v-0TOZbvmL-nAbUMP890&gpp_sid=-1&google_cver=1:0
+[   13220ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=59&redirect=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dlkqd_dbm%26google_hm%3D%24%24rawlkqduserid%7Cbase64%24%24:0
+[   11618ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://cs.nex8.net/cs/openx:0
+[   11618ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://cs.nex8.net/cs/openx:0
+[   14432ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=8aeefb78-7af7-8793-ff51-05e80a456932:0
+[   14606ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[   18099ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://tagan.adlightning.com/newscorp-wsj-aps/op.js:0
+[   18335ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/112/112/9/1.gif?puid=536EE54E9E138E4D&gdpr=0&gdpr_consent=&us_privacy=:0
+[   12513ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12526ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   18407ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   18850ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ https://www.wsj.com/:201
+[   20800ms] [ERROR] Attestation check for Shared Storage on https://securepubads.g.doubleclick.net failed. @ https://imasdk.googleapis.com/js/core/bridge3.740.0_en.html#deid=%22%22&eventfe_experiment_ids=%5B%5D&fid=%22goog_364637633%22&genotype_experiment_data=%7B%22experimentStateProto%22%3A%22%5B%5B%5B45713128%2Cnull%2Cnull%2C%5B%5D%5D%2C%5Bnull%2C745150931%2Cnull%2C%5Bnull%2C1%5D%5D%2C%5Bnull%2C749060184%2Cnull%2C%5Bnull%2C128%5D%5D%2C%5B841585769%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45722344%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45706017%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45740207%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45668885%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45685340%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45734716%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45735891%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45663239%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45715032%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45661356%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B839547366%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45676441%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45675307%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45675308%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5Bnull%2C45645574%2Cnull%2C%5B%5D%5D%2C%5B45688859%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45656766%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45710689%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45710688%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45685601%2Cnull%2Cnull%2C%5B%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5Bnull%2C500%5D%5D%2C%5B45747172%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B775241416%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B781107959%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B781107958%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B792614055%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B781107957%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45729602%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45753603%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45753604%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45658982%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45725657%2Cnull%2Cnull%2C%5B%5D%5D%5D%2C%5B%5B16%2C%5B%5B1%2C%5B%5B31089630%5D%2C%5B31089631%2C%5B%5B45668885%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B1000%2C%5B%5B95332046%5D%5D%5D%2C%5Bnull%2C%5B%5B95332047%5D%5D%5D%2C%5B10%2C%5B%5B95338769%2C%5B%5Bnull%2C45645574%2Cnull%2C%5Bnull%2C1%5D%5D%5D%5D%2C%5B95338770%2C%5B%5Bnull%2C45645574%2Cnull%2C%5Bnull%2C2%5D%5D%5D%5D%5D%5D%2C%5B50%2C%5B%5B95345206%5D%2C%5B95345207%2C%5B%5B45661356%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B1%2C%5B%5B95351425%5D%2C%5B95351426%2C%5B%5B45676441%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B20%2C%5B%5B95356068%5D%2C%5B95356069%2C%5B%5B45685601%2Cnull%2Cnull%2C%5B%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5B%5D%5D%5D%5D%2C%5B95356070%2C%5B%5B45685601%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5B%5D%5D%5D%5D%2C%5B95356071%2C%5B%5B45685601%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5Bnull%2C100%5D%5D%5D%5D%5D%5D%2C%5B1%2C%5B%5B95373378%2C%5B%5B792614055%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95373379%2C%5B%5B45747172%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B781107959%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B792614055%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B781107957%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5Bnull%2C%5B%5B95375930%5D%2C%5B95375931%2C%5B%5B45734716%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95376520%2C%5B%5B45734716%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45735891%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5Bnull%2C%5B%5B95378095%5D%2C%5B95378096%2C%5B%5B45740207%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B10%2C%5B%5B95378629%5D%2C%5B95378630%2C%5B%5B45729602%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95381582%2C%5B%5B45729602%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45753603%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95381583%2C%5B%5B45729602%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45753604%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%5D%5D%5D%2Cnull%2Cnull%2C%5Bnull%2C1000%2C1%2C1000%5D%5D%22%7D&imalib_experiments=%5B44752657%2C95322027%2C95331589%2C95332046%2C95340253%2C95340255%5D&is_eap_loader=false&managed_js_experiment_id=0&page_correlator=2514174779595763&pvsid=6503042793254195&top_accessible_page_url=%22https%3A%2F%2Fwww.wsj.com%2F%22:0
+[   22810ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.wsj.com/buyside/content-images/d8130ed8-19b4-4d92-a701-307990f31232?size=1:0
+[   23074ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.wsj.com/buyside/content-images/90f58c52-9ff2-40bd-9276-735749a77b22?size=1:0
+[   23555ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.wsj.com/buyside/content-images/1b232ffb-3a8e-418a-a269-bc6c5bd75307?size=1:0
+[   18335ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/112/112/9/1.gif?puid=536EE54E9E138E4D&gdpr=0&gdpr_consent=&us_privacy=:0
+[   11618ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://cs.nex8.net/cs/openx:0
+[   14432ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=8aeefb78-7af7-8793-ff51-05e80a456932:0
+[   14606ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[   27441ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.wsj.com/buyside/content-images/90f58c52-9ff2-40bd-9276-735749a77b22?width=620&height=413&pixel_ratio=2:0
+[   12513ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12526ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   18407ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   27955ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   27957ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://j.mrpdata.net/c.html?ex=OpenX:0
+[   28181ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://tagan.adlightning.com/newscorp-wsj-aps/op.js:0
+[   20800ms] [ERROR] Attestation check for Shared Storage on https://securepubads.g.doubleclick.net failed. @ https://imasdk.googleapis.com/js/core/bridge3.740.0_en.html#deid=%22%22&eventfe_experiment_ids=%5B%5D&fid=%22goog_364637633%22&genotype_experiment_data=%7B%22experimentStateProto%22%3A%22%5B%5B%5B45713128%2Cnull%2Cnull%2C%5B%5D%5D%2C%5Bnull%2C745150931%2Cnull%2C%5Bnull%2C1%5D%5D%2C%5Bnull%2C749060184%2Cnull%2C%5Bnull%2C128%5D%5D%2C%5B841585769%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45722344%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45706017%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45740207%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45668885%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45685340%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45734716%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45735891%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45663239%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45715032%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45661356%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B839547366%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45676441%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45675307%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45675308%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5Bnull%2C45645574%2Cnull%2C%5B%5D%5D%2C%5B45688859%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45656766%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45710689%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45710688%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45685601%2Cnull%2Cnull%2C%5B%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5Bnull%2C500%5D%5D%2C%5B45747172%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B775241416%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B781107959%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B781107958%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B792614055%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B781107957%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45729602%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45753603%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45753604%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45658982%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45725657%2Cnull%2Cnull%2C%5B%5D%5D%5D%2C%5B%5B16%2C%5B%5B1%2C%5B%5B31089630%5D%2C%5B31089631%2C%5B%5B45668885%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B1000%2C%5B%5B95332046%5D%5D%5D%2C%5Bnull%2C%5B%5B95332047%5D%5D%5D%2C%5B10%2C%5B%5B95338769%2C%5B%5Bnull%2C45645574%2Cnull%2C%5Bnull%2C1%5D%5D%5D%5D%2C%5B95338770%2C%5B%5Bnull%2C45645574%2Cnull%2C%5Bnull%2C2%5D%5D%5D%5D%5D%5D%2C%5B50%2C%5B%5B95345206%5D%2C%5B95345207%2C%5B%5B45661356%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B1%2C%5B%5B95351425%5D%2C%5B95351426%2C%5B%5B45676441%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B20%2C%5B%5B95356068%5D%2C%5B95356069%2C%5B%5B45685601%2Cnull%2Cnull%2C%5B%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5B%5D%5D%5D%5D%2C%5B95356070%2C%5B%5B45685601%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5B%5D%5D%5D%5D%2C%5B95356071%2C%5B%5B45685601%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5Bnull%2C100%5D%5D%5D%5D%5D%5D%2C%5B1%2C%5B%5B95373378%2C%5B%5B792614055%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95373379%2C%5B%5B45747172%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B781107959%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B792614055%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B781107957%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5Bnull%2C%5B%5B95375930%5D%2C%5B95375931%2C%5B%5B45734716%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95376520%2C%5B%5B45734716%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45735891%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5Bnull%2C%5B%5B95378095%5D%2C%5B95378096%2C%5B%5B45740207%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B10%2C%5B%5B95378629%5D%2C%5B95378630%2C%5B%5B45729602%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95381582%2C%5B%5B45729602%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45753603%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95381583%2C%5B%5B45729602%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45753604%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%5D%5D%5D%2Cnull%2Cnull%2C%5Bnull%2C1000%2C1%2C1000%5D%5D%22%7D&imalib_experiments=%5B44752657%2C95322027%2C95331589%2C95332046%2C95340253%2C95340255%5D&is_eap_loader=false&managed_js_experiment_id=0&page_correlator=2514174779595763&pvsid=6503042793254195&top_accessible_page_url=%22https%3A%2F%2Fwww.wsj.com%2F%22:0
+[   13220ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=59&partnerUserId=CAESEA6v-0TOZbvmL-nAbUMP890&gpp_sid=-1&google_cver=1:0
+[   13220ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=59&redirect=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dlkqd_dbm%26google_hm%3D%24%24rawlkqduserid%7Cbase64%24%24:0
+[   29122ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ https://www.wsj.com/:201
+[   12513ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12526ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   18407ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   27955ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12513ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   12526ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   18407ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   27955ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   29208ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   29212ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   29368ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ https://www.wsj.com/:201
+[   18335ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/112/112/9/1.gif?puid=536EE54E9E138E4D&gdpr=0&gdpr_consent=&us_privacy=:0
+[   30582ms] [ERROR] Attestation check for Shared Storage on https://securepubads.g.doubleclick.net failed. @ https://imasdk.googleapis.com/js/core/bridge3.740.0_en.html#deid=%22%22&eventfe_experiment_ids=%5B%5D&fid=%22goog_364637635%22&genotype_experiment_data=%7B%22experimentStateProto%22%3A%22%5B%5B%5B45713128%2Cnull%2Cnull%2C%5B%5D%5D%2C%5Bnull%2C745150931%2Cnull%2C%5Bnull%2C1%5D%5D%2C%5Bnull%2C749060184%2Cnull%2C%5Bnull%2C128%5D%5D%2C%5B841585769%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45722344%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45706017%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45740207%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45668885%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45685340%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45734716%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45735891%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45663239%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45715032%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45661356%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B839547366%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45676441%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45675307%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45675308%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5Bnull%2C45645574%2Cnull%2C%5B%5D%5D%2C%5B45688859%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45656766%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45710689%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45710688%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45685601%2Cnull%2Cnull%2C%5B%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5Bnull%2C500%5D%5D%2C%5B45747172%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B775241416%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B781107959%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B781107958%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B792614055%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B781107957%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45729602%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45753603%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45753604%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45658982%2Cnull%2Cnull%2C%5B%5D%5D%2C%5B45725657%2Cnull%2Cnull%2C%5B%5D%5D%5D%2C%5B%5B16%2C%5B%5B1%2C%5B%5B31089630%5D%2C%5B31089631%2C%5B%5B45668885%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B1000%2C%5B%5B95332046%5D%5D%5D%2C%5Bnull%2C%5B%5B95332047%5D%5D%5D%2C%5B10%2C%5B%5B95338769%2C%5B%5Bnull%2C45645574%2Cnull%2C%5Bnull%2C1%5D%5D%5D%5D%2C%5B95338770%2C%5B%5Bnull%2C45645574%2Cnull%2C%5Bnull%2C2%5D%5D%5D%5D%5D%5D%2C%5B50%2C%5B%5B95345206%5D%2C%5B95345207%2C%5B%5B45661356%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B1%2C%5B%5B95351425%5D%2C%5B95351426%2C%5B%5B45676441%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B20%2C%5B%5B95356068%5D%2C%5B95356069%2C%5B%5B45685601%2Cnull%2Cnull%2C%5B%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5B%5D%5D%5D%5D%2C%5B95356070%2C%5B%5B45685601%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5B%5D%5D%5D%5D%2C%5B95356071%2C%5B%5B45685601%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5Bnull%2C45685602%2Cnull%2C%5Bnull%2C100%5D%5D%5D%5D%5D%5D%2C%5B1%2C%5B%5B95373378%2C%5B%5B792614055%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95373379%2C%5B%5B45747172%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B781107959%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B792614055%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B781107957%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5Bnull%2C%5B%5B95375930%5D%2C%5B95375931%2C%5B%5B45734716%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95376520%2C%5B%5B45734716%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45735891%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5Bnull%2C%5B%5B95378095%5D%2C%5B95378096%2C%5B%5B45740207%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%2C%5B10%2C%5B%5B95378629%5D%2C%5B95378630%2C%5B%5B45729602%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95381582%2C%5B%5B45729602%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45753603%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5B95381583%2C%5B%5B45729602%2Cnull%2Cnull%2C%5B1%5D%5D%2C%5B45753604%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%5D%5D%5D%5D%5D%2Cnull%2Cnull%2C%5Bnull%2C1000%2C1%2C1000%5D%5D%22%7D&imalib_experiments=%5B44752657%2C95322027%2C95331589%2C95332046%2C95340253%2C95340255%5D&is_eap_loader=false&managed_js_experiment_id=0&page_correlator=1029701457831525&pvsid=6503042793254195&top_accessible_page_url=%22https%3A%2F%2Fwww.wsj.com%2F%22:0
+[   31399ms] [ERROR] Failed to load resource: the server responded with a status of 410 (Gone) @ https://ads.stickyadstv.com/pbs-user-sync?gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&r=https%3A%2F%2Fserver.prebid.dianomi.com%2F%2Fsetuid%3Fbidder%3Dfreewheelssp%26gdpr%3D0%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%7Bviewerid%7D:0
+[   18335ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/112/112/9/1.gif?puid=536EE54E9E138E4D&gdpr=0&gdpr_consent=&us_privacy=:0
+[   11618ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://cs.nex8.net/cs/openx:0
+[   14432ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=8aeefb78-7af7-8793-ff51-05e80a456932:0
+[   14606ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[   27957ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://j.mrpdata.net/c.html?ex=OpenX:0
+[   31399ms] [ERROR] Failed to load resource: the server responded with a status of 410 (Gone) @ https://ads.stickyadstv.com/pbs-user-sync?gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&r=https%3A%2F%2Fserver.prebid.dianomi.com%2F%2Fsetuid%3Fbidder%3Dfreewheelssp%26gdpr%3D0%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%7Bviewerid%7D:0
+[   33097ms] [ERROR] Failed to load resource: the server responded with a status of 410 (Gone) @ https://ads.stickyadstv.com/pbs-user-sync?gdpr=&gdpr_consent=&us_privacy=&gpp=&gpp_sid=&r=https%3A%2F%2Fcookies.nextmillmedia.com%2Fsetuid%3Fbidder%3Dfreewheel-ssp%26nmuid%3D%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26uid%3D%7Bviewerid%7D:0
+[   18335ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/112/112/9/1.gif?puid=536EE54E9E138E4D&gdpr=0&gdpr_consent=&us_privacy=:0
+[   11618ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://cs.nex8.net/cs/openx:0
+[   14432ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=8aeefb78-7af7-8793-ff51-05e80a456932:0
+[   14606ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[   27957ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://j.mrpdata.net/c.html?ex=OpenX:0
+[   33566ms] [WARNING] Mixed Content: The page at 'https://onetag-sys.com/usync/?pubId=75601b04186d260' was loaded over HTTPS, but requested an insecure element 'http://user-sync.fwmrm.net/ad/u?mode=echo&cr=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D3%26gdpr%3D1%26gdpr_consent%3D%26uid%3D#{user.id}'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://onetag-sys.com/usync/?pubId=75601b04186d260:0
+[   34183ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://match.prod.bidr.io/cookie-sync/see:0
+[   34270ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[   11618ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://cs.nex8.net/cs/openx:0
+[   14432ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=8aeefb78-7af7-8793-ff51-05e80a456932:0
+[   14606ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[   27957ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://j.mrpdata.net/c.html?ex=OpenX:0
+[   11618ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://cs.nex8.net/cs/openx:0
+[   14432ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=8aeefb78-7af7-8793-ff51-05e80a456932:0
+[   14606ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[   27957ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://j.mrpdata.net/c.html?ex=OpenX:0
+[   40340ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://cs.admanmedia.com/73c1e1bfc3bde354d60b80e601ae3914.gif?puid=[UID]&redir=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D164%26gdpr%3D1%26gdpr_consent%3D%26uid%3D%5BUID%5D&gdpr=1&gdpr_consent=&ccpa=&coppa=:0
