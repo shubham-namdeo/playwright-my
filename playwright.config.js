@@ -12,10 +12,10 @@ dotenv.config({ path: path.resolve(__dirname, '.env') });
 /**
  * @see https://playwright.dev/docs/test-configuration
  */
-  
+
 export default defineConfig({
   testDir: './tests',
-/* Global setup script */
+  /* Global setup script */
   globalSetup: require.resolve('./utils/globalSetup.js'),
   /* Run tests in files in parallel */
   fullyParallel: true,
@@ -48,25 +48,28 @@ export default defineConfig({
     // Setup project
     {
       name: 'chromium',
-      use: { ...devices['Desktop Chrome'],
+      use: {
+        ...devices['Desktop Chrome'],
         storageState: 'playwright/.auth/user.json',
-       },
+      },
       dependencies: ['setup'],
     },
 
     {
       name: 'firefox',
-      use: { ...devices['Desktop Firefox'],
-      storageState: 'playwright/.auth/user.json',
+      use: {
+        ...devices['Desktop Firefox'],
+        storageState: 'playwright/.auth/user.json',
+      },
+      dependencies: ['setup'],
     },
-    dependencies: ['setup'],
-  },
     {
       name: 'webkit',
-      use: { ...devices['Desktop Safari'],
-      storageState: 'playwright/.auth/user.json',
-       },
-       dependencies: ['setup'],
+      use: {
+        ...devices['Desktop Safari'],
+        storageState: 'playwright/.auth/user.json',
+      },
+      dependencies: ['setup'],
     },
 
     /* Test against mobile viewports. */
