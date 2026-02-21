@@ -1,4 +1,5 @@
 ---
+name: Playwright Orchestrator
 trigger: always_on
 glob: "**/*"
 description: Ensure the agent follows the comprehensive playwright workflow (Plan -> Generate -> Execute -> Heal).
